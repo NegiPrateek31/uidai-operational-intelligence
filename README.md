@@ -115,8 +115,3 @@ uidai-operational-intelligence/
 - Integration with operational KPIs
 
 ---
-
-## Team
-
-- Prateek Negi
-- Chastity Jain
